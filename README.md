@@ -10,7 +10,8 @@ parser for http://domofoto.ru cc-by-sa data: ex-USSR building information
 # Output
 
 Output is a csv file with buildings coordinates and data field. Data licensed as cc-by-sa (http://domofoto.ru/rules/)
-You can open csv in QGIS.
+You can open csv in NextGIS QGIS.
+I do not include address tags, because they not license-clean: almost all addreses taken from googlemaps. If you need addreses - make SPATIAL JOIN with OSM data in NextGIS QGIS or PostGIS
 
 If you want more GIS toolchain - script printing command string for ogr2ogr utility - it process csv to geojson, so you can put data in modern software.
 
