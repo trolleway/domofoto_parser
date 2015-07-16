@@ -6,3 +6,10 @@ parser for http://domofoto.ru cc-by-sa data: ex-USSR building information
 * Set in parce_city.py city code (from http://domofoto.ru/cities/)
 * pip install pip install beautifulsoup4
 * python parce_city.py
+
+# Output
+
+Output is a csv file with buildings coordinates and data field. Data licensed as cc-by-sa (http://domofoto.ru/rules/)
+You can open csv in QGIS.
+
+If you want more GIS toolchain - script printing command string for ogr2ogr utility - it process csv to geojson, so you can put data in modern software.
