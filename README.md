@@ -13,3 +13,9 @@ Output is a csv file with buildings coordinates and data field. Data licensed as
 You can open csv in QGIS.
 
 If you want more GIS toolchain - script printing command string for ogr2ogr utility - it process csv to geojson, so you can put data in modern software.
+
+# Watch domofoto.ru data in android
+
+You can view geojson on map and watch all attributes in NextGIS Mobile.
+https://play.google.com/store/apps/details?id=com.nextgis.mobile
+http://docs.nextgis.ru/docs_ngmobile/source/toc.html
