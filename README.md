@@ -1,5 +1,5 @@
 # domofoto_parser
-parser for domofoto.ru cc-by-sa data: ex-USSR building information
+parser for http://domofoto.ru cc-by-sa data: ex-USSR building information
 
 # Usage
 
